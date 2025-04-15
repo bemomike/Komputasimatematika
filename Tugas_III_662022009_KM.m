@@ -47,8 +47,8 @@ clear
 
 %Loop
 %for_1
-for Otniel = 1:10
-    disp(Otniel);
+for Bemo = 1:10
+    disp(Bemo);
 end
 
 %contoh_2
