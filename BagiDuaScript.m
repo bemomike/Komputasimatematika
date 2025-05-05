@@ -1,7 +1,5 @@
-clc
-clear
 
-function [x, galat] = BagiDua(f, X, N, tol)
+function [x, galat] = BagiDuaScript(f, X, N, tol)
 % BagiDua Menyelesaikan persamaan f(x) = 0 menggunakan metode bagi dua.
 %
 % Input:

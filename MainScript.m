@@ -1,5 +1,3 @@
-clc
-clear
 
 % Definisikan fungsi
 f = inline('x^2 - 3', 'x');
@@ -8,7 +6,7 @@ f = inline('x^2 - 3', 'x');
 X = [1 2];
 
 % Panggil fungsi BagiDua
-[x, galat] = BagiDua(f, X);
+[x, galat] = BagiDuaScript(f, X);
 
 %panggil fungsi PosisiPalsu
 %[x, galat] = PosisiPalsu(f, X);
