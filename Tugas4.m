@@ -1,1 +1,0 @@
-%Buat koding tentang gambar grafik fungsi sebanyak mungkin
